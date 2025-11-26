@@ -1,0 +1,11 @@
+﻿{
+  "gmcm.title": "Hungry, Hungry Animals",
+  "gmcm.enabled": "Mod Enabled",
+  "gmcm.chance": "Chance of Eating",
+  "gmcm.chance.tt": "A value between 0 and 1000.",
+  "gmcm.eating": "Eating Sound",
+  "gmcm.eating.tt": "Sound effect when an animal eats.  Clear the entry to disable the sound effect.",
+  "gmcm.message": "Morning Message",
+  "gmcm.message.tt": "Pop a message if any of your crops were eaten the day before.",
+  "livestock.ate": "Your livestock ate {{cropseaten}} plants yesterday."
+}

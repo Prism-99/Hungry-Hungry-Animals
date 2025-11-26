@@ -1,0 +1,10 @@
+{
+  "Name": "Hungry, Hungry Animals",
+  "Author": "Prism 99",
+  "Version": "1.0.0",
+  "Description": "Enables farms animals to eat crops when there is no grass to be had.",
+  "UniqueID": "prism99.hungry.animals",
+  "EntryDll": "HungryHungryAnimals.dll",
+  "MinimumApiVersion": "4.1.0",
+  "UpdateKeys": [ "Nexus:39675" ]
+}
